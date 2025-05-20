@@ -8,9 +8,12 @@ The user inputs a 26-letter key and a plaintext string. The program validates th
 
 **Example:**
 
-Key: QWERTYUIOPASDFGHJKLZXCVBNM
-Input: hello
-Output: itssg
+Key: QWERTYUIOPASDFGHJKLZXCVBNM  
+
+Input: hello  
+
+Output: itssg  
+
 
 
 ## 🛠️ Tech
@@ -30,6 +33,8 @@ Key must meet the following criteria:
 Exactly 26 alphabetic characters
 No duplicate letters
 Case-insensitive
+```
+
 👤 Author
 
 Alina Miret Shah – @amshah1022
