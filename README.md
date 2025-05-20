@@ -37,7 +37,7 @@ No duplicate letters
 Case-insensitive
 
 
-👤 Author
+## 👤 Author
 
 Alina Miret Shah – @amshah1022
 
